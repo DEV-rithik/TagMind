@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TagMind</string>
+    <string name="widget_description">See your items and start, cancel or confirm reminders from the home screen.</string>
+    <string name="widget_empty">No items yet. Open TagMind and tap an NFC tag to add one.</string>
+</resources>
